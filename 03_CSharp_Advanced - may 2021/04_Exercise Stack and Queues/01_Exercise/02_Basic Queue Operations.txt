@@ -1,0 +1,64 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+
+namespace Basic_Queue_Operations
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            int[] commands = Console.ReadLine().Split().Select(int.Parse).ToArray();
+            int[] numbers = Console.ReadLine().Split().Select(int.Parse).ToArray();
+
+            int n = commands[0];
+            int s = commands[1];
+            int x = commands[2];
+
+            Queue<int> queue = new Queue<int>();
+
+            EnqueElements(queue, numbers, n);
+            DequeElements(queue, s);
+            Checks(queue, x);
+        }
+
+        static Queue<int> EnqueElements(Queue<int> queue, int[] numbers, int comand)
+        {
+            for (int i = 0; i < comand; i++)
+            {
+                queue.Enqueue(numbers[i]);
+            }
+            return queue;
+        }
+
+        static Queue<int> DequeElements(Queue<int> queue, int comand)
+        {
+            for (int i = 0; i < comand; i++)
+            {
+                queue.Dequeue();
+            }
+            return queue;
+        }
+
+        static void Checks(Queue<int> queue, int comand)
+        {
+            if (queue.Any())
+            {
+                if (queue.Contains(comand))
+                {
+                    Console.WriteLine("true");
+                }
+                else
+                {
+                    Console.WriteLine(queue.Min());
+                }
+            }
+
+            else
+            {
+                Console.WriteLine(0);
+            }
+        }
+    }
+}

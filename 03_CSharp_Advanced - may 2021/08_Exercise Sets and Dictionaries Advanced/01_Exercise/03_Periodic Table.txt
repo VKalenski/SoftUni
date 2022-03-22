@@ -1,0 +1,32 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+
+namespace Periodic_Table
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            int lines = int.Parse(Console.ReadLine());
+            SortedSet<string> elements = new SortedSet<string>();
+            FillSet(elements, lines);
+            Console.WriteLine(string.Join(" ", elements));
+        }
+
+        static SortedSet<string> FillSet(SortedSet<string> elements, int lines)
+        {
+            for (int line = 0; line < lines; line++)
+            {
+                string[] compaunds = Console.ReadLine().Split();
+                for (int element = 0; element < compaunds.Length; element++)
+                {
+                    elements.Add(compaunds[element]);
+                }
+            }
+
+            return elements;
+        }
+    }
+}

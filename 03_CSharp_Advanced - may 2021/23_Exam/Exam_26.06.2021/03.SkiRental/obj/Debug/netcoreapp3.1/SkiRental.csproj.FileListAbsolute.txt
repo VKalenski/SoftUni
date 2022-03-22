@@ -1,0 +1,14 @@
+C:\Users\PC\Google Drive (vilislavkalenski@gmail.com)\05_CSharp_Advanced\01_CSharp_Advanced\23_Exam\Exam_26.06.2021\03.SkiRental\bin\Debug\netcoreapp3.1\SkiRental.exe
+C:\Users\PC\Google Drive (vilislavkalenski@gmail.com)\05_CSharp_Advanced\01_CSharp_Advanced\23_Exam\Exam_26.06.2021\03.SkiRental\bin\Debug\netcoreapp3.1\SkiRental.deps.json
+C:\Users\PC\Google Drive (vilislavkalenski@gmail.com)\05_CSharp_Advanced\01_CSharp_Advanced\23_Exam\Exam_26.06.2021\03.SkiRental\bin\Debug\netcoreapp3.1\SkiRental.runtimeconfig.json
+C:\Users\PC\Google Drive (vilislavkalenski@gmail.com)\05_CSharp_Advanced\01_CSharp_Advanced\23_Exam\Exam_26.06.2021\03.SkiRental\bin\Debug\netcoreapp3.1\SkiRental.runtimeconfig.dev.json
+C:\Users\PC\Google Drive (vilislavkalenski@gmail.com)\05_CSharp_Advanced\01_CSharp_Advanced\23_Exam\Exam_26.06.2021\03.SkiRental\bin\Debug\netcoreapp3.1\SkiRental.dll
+C:\Users\PC\Google Drive (vilislavkalenski@gmail.com)\05_CSharp_Advanced\01_CSharp_Advanced\23_Exam\Exam_26.06.2021\03.SkiRental\bin\Debug\netcoreapp3.1\SkiRental.pdb
+C:\Users\PC\Google Drive (vilislavkalenski@gmail.com)\05_CSharp_Advanced\01_CSharp_Advanced\23_Exam\Exam_26.06.2021\03.SkiRental\obj\Debug\netcoreapp3.1\SkiRental.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Google Drive (vilislavkalenski@gmail.com)\05_CSharp_Advanced\01_CSharp_Advanced\23_Exam\Exam_26.06.2021\03.SkiRental\obj\Debug\netcoreapp3.1\SkiRental.AssemblyInfoInputs.cache
+C:\Users\PC\Google Drive (vilislavkalenski@gmail.com)\05_CSharp_Advanced\01_CSharp_Advanced\23_Exam\Exam_26.06.2021\03.SkiRental\obj\Debug\netcoreapp3.1\SkiRental.AssemblyInfo.cs
+C:\Users\PC\Google Drive (vilislavkalenski@gmail.com)\05_CSharp_Advanced\01_CSharp_Advanced\23_Exam\Exam_26.06.2021\03.SkiRental\obj\Debug\netcoreapp3.1\SkiRental.csproj.CoreCompileInputs.cache
+C:\Users\PC\Google Drive (vilislavkalenski@gmail.com)\05_CSharp_Advanced\01_CSharp_Advanced\23_Exam\Exam_26.06.2021\03.SkiRental\obj\Debug\netcoreapp3.1\SkiRental.dll
+C:\Users\PC\Google Drive (vilislavkalenski@gmail.com)\05_CSharp_Advanced\01_CSharp_Advanced\23_Exam\Exam_26.06.2021\03.SkiRental\obj\Debug\netcoreapp3.1\SkiRental.pdb
+C:\Users\PC\Google Drive (vilislavkalenski@gmail.com)\05_CSharp_Advanced\01_CSharp_Advanced\23_Exam\Exam_26.06.2021\03.SkiRental\obj\Debug\netcoreapp3.1\SkiRental.genruntimeconfig.cache
+C:\Users\PC\Google Drive (vilislavkalenski@gmail.com)\05_CSharp_Advanced\01_CSharp_Advanced\23_Exam\Exam_26.06.2021\03.SkiRental\obj\Debug\netcoreapp3.1\SkiRental.csproj.AssemblyReference.cache

@@ -1,0 +1,20 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+
+namespace Action_Print
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Action<string> names = (name) =>
+            {
+                Console.WriteLine(name);
+            };
+               Console.ReadLine().Split(" ", StringSplitOptions.RemoveEmptyEntries)
+                   .ToList()
+                   .ForEach(names);
+        }
+    }
+}
