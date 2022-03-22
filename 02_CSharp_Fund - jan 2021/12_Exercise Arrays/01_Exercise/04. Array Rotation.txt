@@ -1,0 +1,45 @@
+using System;
+
+namespace Array_Rotation
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            string[] array = Console.ReadLine()
+                .Split();
+
+            int rotations = int.Parse(Console.ReadLine());
+
+            for (int rotation = 0; rotation < rotations; rotation++)
+            {
+                string firstElement = array[0]; //Запазваме си първия елемент в една променлива.
+                for (int i = 1; i < array.Length; i++)
+                {
+                    // Създаваме ForLoop от първи индекс до края на масива.
+                    int prevIndex = i - 1;
+                    // и на текущия индекс го слагаме на левия, т.е. на предходния
+                    // (стойността на първия индекс се слага на нулевия).
+                    array[prevIndex] = array[i];
+                }
+                // До тук това се отнасяше за първа итерация, следва втора, трета
+                // и така до края на дължената на масива, докато се обходи целия.
+
+                array[array.Length - 1] = firstElement; 
+                // Заместване на последния индекс с първият стринг,
+                // за да може да се осъществи ротацията на елементите
+                // без да има повтарящи се стрингове.   
+            }
+
+            foreach (var element in array) // element е ново създадена променлива
+            {
+                // Служи за обхождане на целия масив и 
+                // изписването му на конзолата във вид след определения 
+                // брой ротации.
+                Console.Write($"{element} "); // Показваме ги на един ред!
+            }
+
+            Console.WriteLine();
+        }
+    }
+}

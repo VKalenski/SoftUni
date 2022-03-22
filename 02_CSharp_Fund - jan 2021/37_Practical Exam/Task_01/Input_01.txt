@@ -1,0 +1,16 @@
+Problem_01
+
+ILikeSharan
+Replace a e
+Make Upper
+Check SHEREN
+Sum 1 4
+Cut 1 4
+Finish
+
+HappyNameDay
+Replace p r
+Make Lower
+Cut 2 23
+Sum -2 2
+Finish

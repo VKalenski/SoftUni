@@ -1,0 +1,79 @@
+using System;
+using System.Collections.Generic;
+
+namespace Problem_03
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            List<string> fullChat = new List<string>();
+
+            while (true)
+            {
+                string line = Console.ReadLine();
+
+                if (line == "end")
+                {
+                    break;
+                }
+
+                string[] parts = line.Split(" ", StringSplitOptions.RemoveEmptyEntries);
+
+                string command = parts[0];
+
+                if (command == "Chat")
+                {
+                    string message = parts[1];
+
+                    fullChat.Add(message);
+                }
+
+                else if (command == "Delete")
+                {
+                    string message = parts[1];
+
+                    if (fullChat.Contains(message))
+                    {
+                        fullChat.Remove(message);
+                    }
+                }
+
+                else if (command == "Edit")
+                {
+                    string message = parts[1];
+                    string newMessage = parts[2];
+
+                    int index = fullChat.IndexOf(message);
+                    fullChat.RemoveAt(index);
+                    fullChat.Insert(index, newMessage);
+
+                }
+
+                else if (command == "Pin")
+                {
+                    string message = parts[1];
+
+                    if (fullChat.Contains(message))
+                    {
+                        int index = fullChat.IndexOf(message);
+                        fullChat.RemoveAt(index);
+                        fullChat.Add(message);
+                    }
+
+                }
+
+                else if (command == "Spam")
+                {
+                    for (int i = 1; i < parts.Length; i++)
+                    {
+                        string message = parts[i];
+                        fullChat.Add(message);
+                    }
+                }
+            }
+
+            Console.WriteLine(string.Join(Environment.NewLine, fullChat));
+        }
+    }
+}

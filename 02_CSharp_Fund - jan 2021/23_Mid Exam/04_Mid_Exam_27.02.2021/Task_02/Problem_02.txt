@@ -1,0 +1,55 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+
+namespace Problem_02
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            List<int> sugar = Console.ReadLine()
+                .Split()
+                .Select(int.Parse)
+                .ToList();
+
+            while (true)
+            {
+                string[] line = Console.ReadLine().Split();
+                string command = line[0];
+
+                if (command == "Mort")
+                {
+                    break;
+                }
+
+                int value = int.Parse(line[1]);
+
+                if (command == "Add")
+                {
+                    sugar.Add(value);
+                }
+                else if (command == "Remove")
+                {
+                    sugar.Remove(value);
+                }
+                else if (command == "Replace")
+                {
+                    int replacement = int.Parse(line[2]);
+                    int idx = sugar.IndexOf(value);
+
+                    sugar.RemoveAt(idx);
+                    sugar.Insert(idx, replacement);
+                }
+                else if (command == "Collapse")
+                {
+                    sugar = sugar
+                        .Where(v => v >= value)
+                        .ToList();
+                }
+            }
+
+            Console.WriteLine(String.Join(" ", sugar));
+        }
+    }
+}

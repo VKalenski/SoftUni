@@ -1,0 +1,111 @@
+using System;
+
+namespace Problem_01
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            string message = Console.ReadLine();
+            int sumOfSubString = 0;
+
+            while (true)
+            {
+                string input = Console.ReadLine();
+
+                if (input == "Finish")
+                {
+                    break;
+                }
+
+                string[] token = input.Split(" ", StringSplitOptions.RemoveEmptyEntries);
+                string command = token[0];
+                               
+                if (command == "Replace")
+                {
+                    char currentChar = char.Parse(token[1]);
+                    char newChar = char.Parse(token[2]);
+
+                    if (message.Contains(currentChar))
+                    {
+                        message = message.Replace(currentChar, newChar);
+                    }
+
+                    Console.WriteLine(message);
+                }
+
+                else if (command == "Cut")
+                {
+                    int startIdx = int.Parse(token[1]);
+                    int endIdx = int.Parse(token[2]);
+                    int length = (endIdx - startIdx) + 1;
+
+                    if (startIdx >= 0 && endIdx < message.Length)
+                    {
+                        message = message.Remove(startIdx, length);
+                        Console.WriteLine(message);
+                    }
+                    else
+                    {
+                        Console.WriteLine("Invalid indices!");
+                    }
+                    
+                }
+
+                else if (command == "Make")
+                {
+
+                    if (token[1] == "Upper")
+                    {
+                        message = message.ToUpper();
+                        Console.WriteLine(message);
+                    }
+
+                    else if (token[1] == "Lower")
+                    {
+                        message = message.ToLower();
+                        Console.WriteLine(message);
+
+                    }
+                }
+
+                else if (command == "Check")
+                {
+                    string str = token[1];
+
+                    if (message.Contains(str))
+                    {
+                        Console.WriteLine($"Message contains {str}");
+                    }
+
+                    else
+                    {
+                        Console.WriteLine($"Message doesn't contain {str}");
+                    }
+
+                }
+
+                else if (command == "Sum")
+                {
+                    int startIdx = int.Parse(token[1]);
+                    int endIdx = int.Parse(token[2]);
+                    int length = (endIdx - startIdx) + 1;
+
+                    if (startIdx >= 0 && endIdx < message.Length)
+                    {
+                        string substr = message.Substring(startIdx, length);
+                        for (int i = 0; i < substr.Length; i++)
+                        {
+                            sumOfSubString += substr[i];
+                        }
+                        Console.WriteLine(sumOfSubString);
+                    }
+                    else
+                    {
+                        Console.WriteLine("Invalid indices!");
+                    }
+                }
+            }
+        }
+    }
+}
