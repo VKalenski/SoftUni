@@ -1,0 +1,20 @@
+using System;
+
+namespace Excursion
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            int countPeople = int.Parse(Console.ReadLine());
+            int countNights = int.Parse(Console.ReadLine());
+            int countCards = int.Parse(Console.ReadLine());
+            int countTickets = int.Parse(Console.ReadLine());
+         
+            double totalPrice = (countNights * 20 + countCards * 1.60 + countTickets * 6) *countPeople;
+            double additionalPrice = totalPrice + (totalPrice * 0.25);
+
+            Console.WriteLine($"{additionalPrice:F2}");
+        }
+    }
+}

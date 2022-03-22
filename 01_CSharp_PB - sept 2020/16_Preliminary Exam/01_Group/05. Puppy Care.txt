@@ -1,0 +1,41 @@
+using System;
+
+namespace PuppyCare
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            int food = int.Parse(Console.ReadLine());
+
+            int foodInGr = food * 1000; // Храната в грамове
+            int foodDog = 0;
+            int eatingFood = 0; // Изядена храна
+
+            while (true)
+            {
+                string input = Console.ReadLine(); //
+                if (input == "Adopted")
+                {
+                    break;
+                }
+
+                else
+                {
+                    foodDog = int.Parse(input); //
+                    eatingFood += foodDog;
+                }
+            }
+
+            if (foodInGr >= eatingFood)
+            {
+                Console.WriteLine($"Food is enough! Leftovers: {foodInGr - eatingFood} grams.");
+            }
+            else if (eatingFood > foodInGr)
+            {
+                Console.WriteLine($"Food is not enough. You need {eatingFood - foodInGr} grams more.");
+            }
+        }
+    }
+}
+

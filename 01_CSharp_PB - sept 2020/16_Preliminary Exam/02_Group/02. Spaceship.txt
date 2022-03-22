@@ -1,0 +1,35 @@
+using System;
+using System.ComponentModel;
+
+namespace Spaceship
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            double width = double.Parse(Console.ReadLine());
+            double length = double.Parse(Console.ReadLine());
+            double height = double.Parse(Console.ReadLine());
+            double averageHeight = double.Parse(Console.ReadLine());
+
+            double volumeOfRacket = width * length * height;
+            double volumeOfTheRoom = (averageHeight + 0.40) * 2 * 2;
+
+            double countPeople = Math.Floor(volumeOfRacket / volumeOfTheRoom);
+
+            if (countPeople >= 3 && countPeople <= 10)
+            {
+                Console.WriteLine($"The spacecraft holds {countPeople} astronauts.");
+            }
+            else if (countPeople < 3)
+            {
+                Console.WriteLine("The spacecraft is too small.");
+            }
+            else if (countPeople > 10)
+            {
+                Console.WriteLine("The spacecraft is too big.");
+            }
+
+        }
+    }
+}

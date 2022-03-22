@@ -1,0 +1,31 @@
+using System;
+
+namespace AndProcessors
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            int countAndProcessor = int.Parse(Console.ReadLine());
+            int countEmployees = int.Parse(Console.ReadLine());
+            int countDays = int.Parse(Console.ReadLine());            
+
+            double hours = countEmployees * countDays * 8;
+            double countProcessor = Math.Floor(hours / 3);
+
+            if (countAndProcessor > countProcessor)
+            {
+                double Diff = countAndProcessor - countProcessor;
+                double price = Diff * 110.10;
+                Console.WriteLine($"Losses: -> {price:F2} BGN");
+            }
+
+            else if (countAndProcessor <= countProcessor)
+            {
+                double Diff = countProcessor - countAndProcessor;
+                double price = Diff * 110.10;
+                Console.WriteLine($"Profit: -> {price:F2} BGN");
+            }
+        }
+    }
+}

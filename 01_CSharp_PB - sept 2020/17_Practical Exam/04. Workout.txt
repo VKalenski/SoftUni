@@ -1,0 +1,34 @@
+using System;
+using System.Globalization;
+
+namespace Workout
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            int N = int.Parse(Console.ReadLine());
+            double M = double.Parse(Console.ReadLine());
+
+            double totalKilometers = M;
+
+
+            for (int i = 0; i < N; i++)
+            {
+                int percentPerDay = int.Parse(Console.ReadLine());
+                M *= 1 + percentPerDay / 100.0;
+                totalKilometers += M;
+            }
+
+            if (totalKilometers <= 1000)
+            {
+                Console.WriteLine($"Sorry Mrs. Ivanova, you need to run {Math.Ceiling(1000 - totalKilometers)} more kilometers");
+            }
+
+            else
+            {
+                Console.WriteLine($"You've done a great job running {Math.Ceiling(totalKilometers - 1000)} more kilometers!");
+            }
+        }
+    }
+}

@@ -1,0 +1,16 @@
+using System;
+
+namespace ExcellentResult
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            double Grade = double.Parse(Console.ReadLine());
+            if (Grade >= 5.50)
+            {
+                Console.WriteLine("Excellent!");
+            }
+        }
+    }
+}

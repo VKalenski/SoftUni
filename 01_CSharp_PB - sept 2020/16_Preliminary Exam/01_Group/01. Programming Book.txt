@@ -1,0 +1,22 @@
+using System;
+
+namespace ProgrammingBook
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            double pricePerPage = double.Parse(Console.ReadLine()); // Цена за страница
+            double pricePerCover = double.Parse(Console.ReadLine()); // Цена за корица
+            double percentForPaper = double.Parse(Console.ReadLine()); // 
+            double priceForDizain = double.Parse(Console.ReadLine()); // 
+            double percentForAllPrice = double.Parse(Console.ReadLine()); // 
+
+            double priceForPaper = pricePerPage * 899 + pricePerCover * 2;
+            double priceForPaperWithDiscount = priceForPaper - (priceForPaper * (percentForPaper / 100));
+            double priceWithDizain = priceForPaperWithDiscount + priceForDizain;
+            double sum = priceWithDizain - (priceWithDizain * (percentForAllPrice / 100));
+            Console.WriteLine($"Avtonom should pay {sum:F2} BGN.");
+        }
+    }
+}

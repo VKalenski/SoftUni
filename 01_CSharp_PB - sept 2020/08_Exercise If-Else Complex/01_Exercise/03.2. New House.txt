@@ -1,0 +1,84 @@
+using System;
+
+namespace NewHouse
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            int roses = 5;
+            double dahlias = 3.80;
+            double tulips = 2.80;
+            int narcissus = 3;
+            double gladiolus = 2.50;
+
+            string flowerType = Console.ReadLine();
+            int flowerCount = int.Parse(Console.ReadLine());
+            int budget = int.Parse(Console.ReadLine()); 
+
+            double totalPrice = 0;
+
+            if (flowerType == "Roses")
+            {
+                totalPrice = roses * flowerCount;
+
+                if (flowerCount > 80)
+                {
+                    totalPrice -= totalPrice * 0.10;
+                }
+            }
+
+            else if (flowerType == "Dahlias")
+            {
+                totalPrice = dahlias * flowerCount;
+
+                if (flowerCount > 90)
+                {
+                    totalPrice -= totalPrice * 0.15;
+                }
+            }
+
+            else if (flowerType == "Tulips")
+            {
+                totalPrice = tulips * flowerCount;
+
+                if (flowerCount > 80)
+                {
+                    totalPrice -= totalPrice * 0.15;
+                }
+
+            }
+
+            else if (flowerType == "Narcissus")
+            {
+                totalPrice = narcissus * flowerCount;
+
+                if (flowerCount < 120)
+                {
+                    totalPrice += totalPrice * 0.15;
+                }
+            }
+
+            else if (flowerType == "Gladiolus")
+            {
+                totalPrice = gladiolus * flowerCount;
+
+                if (flowerCount < 80)
+                {
+                    totalPrice += totalPrice * 0.20;
+                }
+            }
+
+            if (totalPrice <= budget)
+            {
+                Console.WriteLine($"Hey, you have a great garden with" +
+                    $" {flowerCount} {flowerType} and {budget - totalPrice:F2} leva left.");
+            }
+
+            else if (totalPrice > budget)
+            {
+                Console.WriteLine($"Not enough money, you need {totalPrice - budget:F2} leva more.");
+            }
+        }
+    }
+}
