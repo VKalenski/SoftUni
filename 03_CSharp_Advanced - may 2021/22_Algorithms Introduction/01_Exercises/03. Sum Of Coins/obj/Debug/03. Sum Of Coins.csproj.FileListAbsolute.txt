@@ -1,0 +1,8 @@
+C:\Users\vilislav.kalenski\Documents\GitHub\Example\03_CSharp_Advanced - may 2021\22_Algorithms Introduction\03. Sum Of Coins\bin\Debug\SumOfCoins.exe.config
+C:\Users\vilislav.kalenski\Documents\GitHub\Example\03_CSharp_Advanced - may 2021\22_Algorithms Introduction\03. Sum Of Coins\bin\Debug\SumOfCoins.exe
+C:\Users\vilislav.kalenski\Documents\GitHub\Example\03_CSharp_Advanced - may 2021\22_Algorithms Introduction\03. Sum Of Coins\bin\Debug\SumOfCoins.pdb
+C:\Users\vilislav.kalenski\Documents\GitHub\Example\03_CSharp_Advanced - may 2021\22_Algorithms Introduction\03. Sum Of Coins\obj\Debug\03. Sum Of Coins.csproj.AssemblyReference.cache
+C:\Users\vilislav.kalenski\Documents\GitHub\Example\03_CSharp_Advanced - may 2021\22_Algorithms Introduction\03. Sum Of Coins\obj\Debug\03. Sum Of Coins.csproj.SuggestedBindingRedirects.cache
+C:\Users\vilislav.kalenski\Documents\GitHub\Example\03_CSharp_Advanced - may 2021\22_Algorithms Introduction\03. Sum Of Coins\obj\Debug\03. Sum Of Coins.csproj.CoreCompileInputs.cache
+C:\Users\vilislav.kalenski\Documents\GitHub\Example\03_CSharp_Advanced - may 2021\22_Algorithms Introduction\03. Sum Of Coins\obj\Debug\SumOfCoins.exe
+C:\Users\vilislav.kalenski\Documents\GitHub\Example\03_CSharp_Advanced - may 2021\22_Algorithms Introduction\03. Sum Of Coins\obj\Debug\SumOfCoins.pdb
