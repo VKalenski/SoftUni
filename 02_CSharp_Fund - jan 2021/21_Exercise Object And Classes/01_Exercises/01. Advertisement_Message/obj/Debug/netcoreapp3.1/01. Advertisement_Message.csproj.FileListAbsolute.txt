@@ -1,0 +1,14 @@
+C:\Users\vilislav.kalenski\Documents\GitHub\Example\02_CSharp_Fund - jan 2021\21_Exercise Object And Classes\01. Advertisement_Message\bin\Debug\netcoreapp3.1\01. Advertisement_Message.exe
+C:\Users\vilislav.kalenski\Documents\GitHub\Example\02_CSharp_Fund - jan 2021\21_Exercise Object And Classes\01. Advertisement_Message\bin\Debug\netcoreapp3.1\01. Advertisement_Message.deps.json
+C:\Users\vilislav.kalenski\Documents\GitHub\Example\02_CSharp_Fund - jan 2021\21_Exercise Object And Classes\01. Advertisement_Message\bin\Debug\netcoreapp3.1\01. Advertisement_Message.runtimeconfig.json
+C:\Users\vilislav.kalenski\Documents\GitHub\Example\02_CSharp_Fund - jan 2021\21_Exercise Object And Classes\01. Advertisement_Message\bin\Debug\netcoreapp3.1\01. Advertisement_Message.runtimeconfig.dev.json
+C:\Users\vilislav.kalenski\Documents\GitHub\Example\02_CSharp_Fund - jan 2021\21_Exercise Object And Classes\01. Advertisement_Message\bin\Debug\netcoreapp3.1\01. Advertisement_Message.dll
+C:\Users\vilislav.kalenski\Documents\GitHub\Example\02_CSharp_Fund - jan 2021\21_Exercise Object And Classes\01. Advertisement_Message\bin\Debug\netcoreapp3.1\01. Advertisement_Message.pdb
+C:\Users\vilislav.kalenski\Documents\GitHub\Example\02_CSharp_Fund - jan 2021\21_Exercise Object And Classes\01. Advertisement_Message\obj\Debug\netcoreapp3.1\01. Advertisement_Message.csproj.AssemblyReference.cache
+C:\Users\vilislav.kalenski\Documents\GitHub\Example\02_CSharp_Fund - jan 2021\21_Exercise Object And Classes\01. Advertisement_Message\obj\Debug\netcoreapp3.1\01. Advertisement_Message.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vilislav.kalenski\Documents\GitHub\Example\02_CSharp_Fund - jan 2021\21_Exercise Object And Classes\01. Advertisement_Message\obj\Debug\netcoreapp3.1\01. Advertisement_Message.AssemblyInfoInputs.cache
+C:\Users\vilislav.kalenski\Documents\GitHub\Example\02_CSharp_Fund - jan 2021\21_Exercise Object And Classes\01. Advertisement_Message\obj\Debug\netcoreapp3.1\01. Advertisement_Message.AssemblyInfo.cs
+C:\Users\vilislav.kalenski\Documents\GitHub\Example\02_CSharp_Fund - jan 2021\21_Exercise Object And Classes\01. Advertisement_Message\obj\Debug\netcoreapp3.1\01. Advertisement_Message.csproj.CoreCompileInputs.cache
+C:\Users\vilislav.kalenski\Documents\GitHub\Example\02_CSharp_Fund - jan 2021\21_Exercise Object And Classes\01. Advertisement_Message\obj\Debug\netcoreapp3.1\01. Advertisement_Message.dll
+C:\Users\vilislav.kalenski\Documents\GitHub\Example\02_CSharp_Fund - jan 2021\21_Exercise Object And Classes\01. Advertisement_Message\obj\Debug\netcoreapp3.1\01. Advertisement_Message.pdb
+C:\Users\vilislav.kalenski\Documents\GitHub\Example\02_CSharp_Fund - jan 2021\21_Exercise Object And Classes\01. Advertisement_Message\obj\Debug\netcoreapp3.1\01. Advertisement_Message.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\vilislav.kalenski\Documents\GitHub\Example\02_CSharp_Fund - jan 2021\21_Exercise Object And Classes\03. Articles_2\bin\Debug\netcoreapp3.1\03. Articles_2.exe
+C:\Users\vilislav.kalenski\Documents\GitHub\Example\02_CSharp_Fund - jan 2021\21_Exercise Object And Classes\03. Articles_2\bin\Debug\netcoreapp3.1\03. Articles_2.deps.json
+C:\Users\vilislav.kalenski\Documents\GitHub\Example\02_CSharp_Fund - jan 2021\21_Exercise Object And Classes\03. Articles_2\bin\Debug\netcoreapp3.1\03. Articles_2.runtimeconfig.json
+C:\Users\vilislav.kalenski\Documents\GitHub\Example\02_CSharp_Fund - jan 2021\21_Exercise Object And Classes\03. Articles_2\bin\Debug\netcoreapp3.1\03. Articles_2.runtimeconfig.dev.json
+C:\Users\vilislav.kalenski\Documents\GitHub\Example\02_CSharp_Fund - jan 2021\21_Exercise Object And Classes\03. Articles_2\bin\Debug\netcoreapp3.1\03. Articles_2.dll
+C:\Users\vilislav.kalenski\Documents\GitHub\Example\02_CSharp_Fund - jan 2021\21_Exercise Object And Classes\03. Articles_2\bin\Debug\netcoreapp3.1\03. Articles_2.pdb
+C:\Users\vilislav.kalenski\Documents\GitHub\Example\02_CSharp_Fund - jan 2021\21_Exercise Object And Classes\03. Articles_2\obj\Debug\netcoreapp3.1\03. Articles_2.csproj.AssemblyReference.cache
+C:\Users\vilislav.kalenski\Documents\GitHub\Example\02_CSharp_Fund - jan 2021\21_Exercise Object And Classes\03. Articles_2\obj\Debug\netcoreapp3.1\03. Articles_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vilislav.kalenski\Documents\GitHub\Example\02_CSharp_Fund - jan 2021\21_Exercise Object And Classes\03. Articles_2\obj\Debug\netcoreapp3.1\03. Articles_2.AssemblyInfoInputs.cache
+C:\Users\vilislav.kalenski\Documents\GitHub\Example\02_CSharp_Fund - jan 2021\21_Exercise Object And Classes\03. Articles_2\obj\Debug\netcoreapp3.1\03. Articles_2.AssemblyInfo.cs
+C:\Users\vilislav.kalenski\Documents\GitHub\Example\02_CSharp_Fund - jan 2021\21_Exercise Object And Classes\03. Articles_2\obj\Debug\netcoreapp3.1\03. Articles_2.csproj.CoreCompileInputs.cache
+C:\Users\vilislav.kalenski\Documents\GitHub\Example\02_CSharp_Fund - jan 2021\21_Exercise Object And Classes\03. Articles_2\obj\Debug\netcoreapp3.1\03. Articles_2.dll
+C:\Users\vilislav.kalenski\Documents\GitHub\Example\02_CSharp_Fund - jan 2021\21_Exercise Object And Classes\03. Articles_2\obj\Debug\netcoreapp3.1\03. Articles_2.pdb
+C:\Users\vilislav.kalenski\Documents\GitHub\Example\02_CSharp_Fund - jan 2021\21_Exercise Object And Classes\03. Articles_2\obj\Debug\netcoreapp3.1\03. Articles_2.genruntimeconfig.cache

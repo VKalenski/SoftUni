@@ -1,0 +1,14 @@
+C:\Users\vilislav.kalenski\Documents\GitHub\Example\02_CSharp_Fund - jan 2021\21_Exercise Object And Classes\05. Teamwork_Projects\bin\Debug\netcoreapp3.1\05. Teamwork_Projects.exe
+C:\Users\vilislav.kalenski\Documents\GitHub\Example\02_CSharp_Fund - jan 2021\21_Exercise Object And Classes\05. Teamwork_Projects\bin\Debug\netcoreapp3.1\05. Teamwork_Projects.deps.json
+C:\Users\vilislav.kalenski\Documents\GitHub\Example\02_CSharp_Fund - jan 2021\21_Exercise Object And Classes\05. Teamwork_Projects\bin\Debug\netcoreapp3.1\05. Teamwork_Projects.runtimeconfig.json
+C:\Users\vilislav.kalenski\Documents\GitHub\Example\02_CSharp_Fund - jan 2021\21_Exercise Object And Classes\05. Teamwork_Projects\bin\Debug\netcoreapp3.1\05. Teamwork_Projects.runtimeconfig.dev.json
+C:\Users\vilislav.kalenski\Documents\GitHub\Example\02_CSharp_Fund - jan 2021\21_Exercise Object And Classes\05. Teamwork_Projects\bin\Debug\netcoreapp3.1\05. Teamwork_Projects.dll
+C:\Users\vilislav.kalenski\Documents\GitHub\Example\02_CSharp_Fund - jan 2021\21_Exercise Object And Classes\05. Teamwork_Projects\bin\Debug\netcoreapp3.1\05. Teamwork_Projects.pdb
+C:\Users\vilislav.kalenski\Documents\GitHub\Example\02_CSharp_Fund - jan 2021\21_Exercise Object And Classes\05. Teamwork_Projects\obj\Debug\netcoreapp3.1\05. Teamwork_Projects.csproj.AssemblyReference.cache
+C:\Users\vilislav.kalenski\Documents\GitHub\Example\02_CSharp_Fund - jan 2021\21_Exercise Object And Classes\05. Teamwork_Projects\obj\Debug\netcoreapp3.1\05. Teamwork_Projects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vilislav.kalenski\Documents\GitHub\Example\02_CSharp_Fund - jan 2021\21_Exercise Object And Classes\05. Teamwork_Projects\obj\Debug\netcoreapp3.1\05. Teamwork_Projects.AssemblyInfoInputs.cache
+C:\Users\vilislav.kalenski\Documents\GitHub\Example\02_CSharp_Fund - jan 2021\21_Exercise Object And Classes\05. Teamwork_Projects\obj\Debug\netcoreapp3.1\05. Teamwork_Projects.AssemblyInfo.cs
+C:\Users\vilislav.kalenski\Documents\GitHub\Example\02_CSharp_Fund - jan 2021\21_Exercise Object And Classes\05. Teamwork_Projects\obj\Debug\netcoreapp3.1\05. Teamwork_Projects.csproj.CoreCompileInputs.cache
+C:\Users\vilislav.kalenski\Documents\GitHub\Example\02_CSharp_Fund - jan 2021\21_Exercise Object And Classes\05. Teamwork_Projects\obj\Debug\netcoreapp3.1\05. Teamwork_Projects.dll
+C:\Users\vilislav.kalenski\Documents\GitHub\Example\02_CSharp_Fund - jan 2021\21_Exercise Object And Classes\05. Teamwork_Projects\obj\Debug\netcoreapp3.1\05. Teamwork_Projects.pdb
+C:\Users\vilislav.kalenski\Documents\GitHub\Example\02_CSharp_Fund - jan 2021\21_Exercise Object And Classes\05. Teamwork_Projects\obj\Debug\netcoreapp3.1\05. Teamwork_Projects.genruntimeconfig.cache

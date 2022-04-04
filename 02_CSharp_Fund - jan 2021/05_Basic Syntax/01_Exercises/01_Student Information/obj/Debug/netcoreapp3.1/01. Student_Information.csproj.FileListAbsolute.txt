@@ -1,0 +1,14 @@
+C:\Users\vilislav.kalenski\Documents\GitHub\Example\02_CSharp_Fund - jan 2021\05_Basic Syntax\01_Student Information\bin\Debug\netcoreapp3.1\01. Student_Information.exe
+C:\Users\vilislav.kalenski\Documents\GitHub\Example\02_CSharp_Fund - jan 2021\05_Basic Syntax\01_Student Information\bin\Debug\netcoreapp3.1\01. Student_Information.deps.json
+C:\Users\vilislav.kalenski\Documents\GitHub\Example\02_CSharp_Fund - jan 2021\05_Basic Syntax\01_Student Information\bin\Debug\netcoreapp3.1\01. Student_Information.runtimeconfig.json
+C:\Users\vilislav.kalenski\Documents\GitHub\Example\02_CSharp_Fund - jan 2021\05_Basic Syntax\01_Student Information\bin\Debug\netcoreapp3.1\01. Student_Information.runtimeconfig.dev.json
+C:\Users\vilislav.kalenski\Documents\GitHub\Example\02_CSharp_Fund - jan 2021\05_Basic Syntax\01_Student Information\bin\Debug\netcoreapp3.1\01. Student_Information.dll
+C:\Users\vilislav.kalenski\Documents\GitHub\Example\02_CSharp_Fund - jan 2021\05_Basic Syntax\01_Student Information\bin\Debug\netcoreapp3.1\01. Student_Information.pdb
+C:\Users\vilislav.kalenski\Documents\GitHub\Example\02_CSharp_Fund - jan 2021\05_Basic Syntax\01_Student Information\obj\Debug\netcoreapp3.1\01. Student_Information.csproj.AssemblyReference.cache
+C:\Users\vilislav.kalenski\Documents\GitHub\Example\02_CSharp_Fund - jan 2021\05_Basic Syntax\01_Student Information\obj\Debug\netcoreapp3.1\01. Student_Information.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vilislav.kalenski\Documents\GitHub\Example\02_CSharp_Fund - jan 2021\05_Basic Syntax\01_Student Information\obj\Debug\netcoreapp3.1\01. Student_Information.AssemblyInfoInputs.cache
+C:\Users\vilislav.kalenski\Documents\GitHub\Example\02_CSharp_Fund - jan 2021\05_Basic Syntax\01_Student Information\obj\Debug\netcoreapp3.1\01. Student_Information.AssemblyInfo.cs
+C:\Users\vilislav.kalenski\Documents\GitHub\Example\02_CSharp_Fund - jan 2021\05_Basic Syntax\01_Student Information\obj\Debug\netcoreapp3.1\01. Student_Information.csproj.CoreCompileInputs.cache
+C:\Users\vilislav.kalenski\Documents\GitHub\Example\02_CSharp_Fund - jan 2021\05_Basic Syntax\01_Student Information\obj\Debug\netcoreapp3.1\01. Student_Information.dll
+C:\Users\vilislav.kalenski\Documents\GitHub\Example\02_CSharp_Fund - jan 2021\05_Basic Syntax\01_Student Information\obj\Debug\netcoreapp3.1\01. Student_Information.pdb
+C:\Users\vilislav.kalenski\Documents\GitHub\Example\02_CSharp_Fund - jan 2021\05_Basic Syntax\01_Student Information\obj\Debug\netcoreapp3.1\01. Student_Information.genruntimeconfig.cache

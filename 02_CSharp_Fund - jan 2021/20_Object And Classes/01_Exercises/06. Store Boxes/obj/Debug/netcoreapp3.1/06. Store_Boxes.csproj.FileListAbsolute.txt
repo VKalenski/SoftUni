@@ -1,0 +1,14 @@
+C:\Users\vilislav.kalenski\Documents\GitHub\Example\02_CSharp_Fund - jan 2021\20_Object And Classes\06. Store_Boxes\bin\Debug\netcoreapp3.1\06. Store_Boxes.exe
+C:\Users\vilislav.kalenski\Documents\GitHub\Example\02_CSharp_Fund - jan 2021\20_Object And Classes\06. Store_Boxes\bin\Debug\netcoreapp3.1\06. Store_Boxes.deps.json
+C:\Users\vilislav.kalenski\Documents\GitHub\Example\02_CSharp_Fund - jan 2021\20_Object And Classes\06. Store_Boxes\bin\Debug\netcoreapp3.1\06. Store_Boxes.runtimeconfig.json
+C:\Users\vilislav.kalenski\Documents\GitHub\Example\02_CSharp_Fund - jan 2021\20_Object And Classes\06. Store_Boxes\bin\Debug\netcoreapp3.1\06. Store_Boxes.runtimeconfig.dev.json
+C:\Users\vilislav.kalenski\Documents\GitHub\Example\02_CSharp_Fund - jan 2021\20_Object And Classes\06. Store_Boxes\bin\Debug\netcoreapp3.1\06. Store_Boxes.dll
+C:\Users\vilislav.kalenski\Documents\GitHub\Example\02_CSharp_Fund - jan 2021\20_Object And Classes\06. Store_Boxes\bin\Debug\netcoreapp3.1\06. Store_Boxes.pdb
+C:\Users\vilislav.kalenski\Documents\GitHub\Example\02_CSharp_Fund - jan 2021\20_Object And Classes\06. Store_Boxes\obj\Debug\netcoreapp3.1\06. Store_Boxes.csproj.AssemblyReference.cache
+C:\Users\vilislav.kalenski\Documents\GitHub\Example\02_CSharp_Fund - jan 2021\20_Object And Classes\06. Store_Boxes\obj\Debug\netcoreapp3.1\06. Store_Boxes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vilislav.kalenski\Documents\GitHub\Example\02_CSharp_Fund - jan 2021\20_Object And Classes\06. Store_Boxes\obj\Debug\netcoreapp3.1\06. Store_Boxes.AssemblyInfoInputs.cache
+C:\Users\vilislav.kalenski\Documents\GitHub\Example\02_CSharp_Fund - jan 2021\20_Object And Classes\06. Store_Boxes\obj\Debug\netcoreapp3.1\06. Store_Boxes.AssemblyInfo.cs
+C:\Users\vilislav.kalenski\Documents\GitHub\Example\02_CSharp_Fund - jan 2021\20_Object And Classes\06. Store_Boxes\obj\Debug\netcoreapp3.1\06. Store_Boxes.csproj.CoreCompileInputs.cache
+C:\Users\vilislav.kalenski\Documents\GitHub\Example\02_CSharp_Fund - jan 2021\20_Object And Classes\06. Store_Boxes\obj\Debug\netcoreapp3.1\06. Store_Boxes.dll
+C:\Users\vilislav.kalenski\Documents\GitHub\Example\02_CSharp_Fund - jan 2021\20_Object And Classes\06. Store_Boxes\obj\Debug\netcoreapp3.1\06. Store_Boxes.pdb
+C:\Users\vilislav.kalenski\Documents\GitHub\Example\02_CSharp_Fund - jan 2021\20_Object And Classes\06. Store_Boxes\obj\Debug\netcoreapp3.1\06. Store_Boxes.genruntimeconfig.cache

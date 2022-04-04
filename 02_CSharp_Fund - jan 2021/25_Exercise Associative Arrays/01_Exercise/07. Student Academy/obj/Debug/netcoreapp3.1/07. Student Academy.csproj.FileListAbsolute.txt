@@ -1,0 +1,14 @@
+C:\Users\vilislav.kalenski\Documents\GitHub\Example\02_CSharp_Fund - jan 2021\25_Exercise Associative Arrays\07. Student Academy\bin\Debug\netcoreapp3.1\07. Student Academy.exe
+C:\Users\vilislav.kalenski\Documents\GitHub\Example\02_CSharp_Fund - jan 2021\25_Exercise Associative Arrays\07. Student Academy\bin\Debug\netcoreapp3.1\07. Student Academy.deps.json
+C:\Users\vilislav.kalenski\Documents\GitHub\Example\02_CSharp_Fund - jan 2021\25_Exercise Associative Arrays\07. Student Academy\bin\Debug\netcoreapp3.1\07. Student Academy.runtimeconfig.json
+C:\Users\vilislav.kalenski\Documents\GitHub\Example\02_CSharp_Fund - jan 2021\25_Exercise Associative Arrays\07. Student Academy\bin\Debug\netcoreapp3.1\07. Student Academy.runtimeconfig.dev.json
+C:\Users\vilislav.kalenski\Documents\GitHub\Example\02_CSharp_Fund - jan 2021\25_Exercise Associative Arrays\07. Student Academy\bin\Debug\netcoreapp3.1\07. Student Academy.dll
+C:\Users\vilislav.kalenski\Documents\GitHub\Example\02_CSharp_Fund - jan 2021\25_Exercise Associative Arrays\07. Student Academy\bin\Debug\netcoreapp3.1\07. Student Academy.pdb
+C:\Users\vilislav.kalenski\Documents\GitHub\Example\02_CSharp_Fund - jan 2021\25_Exercise Associative Arrays\07. Student Academy\obj\Debug\netcoreapp3.1\07. Student Academy.csproj.AssemblyReference.cache
+C:\Users\vilislav.kalenski\Documents\GitHub\Example\02_CSharp_Fund - jan 2021\25_Exercise Associative Arrays\07. Student Academy\obj\Debug\netcoreapp3.1\07. Student Academy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vilislav.kalenski\Documents\GitHub\Example\02_CSharp_Fund - jan 2021\25_Exercise Associative Arrays\07. Student Academy\obj\Debug\netcoreapp3.1\07. Student Academy.AssemblyInfoInputs.cache
+C:\Users\vilislav.kalenski\Documents\GitHub\Example\02_CSharp_Fund - jan 2021\25_Exercise Associative Arrays\07. Student Academy\obj\Debug\netcoreapp3.1\07. Student Academy.AssemblyInfo.cs
+C:\Users\vilislav.kalenski\Documents\GitHub\Example\02_CSharp_Fund - jan 2021\25_Exercise Associative Arrays\07. Student Academy\obj\Debug\netcoreapp3.1\07. Student Academy.csproj.CoreCompileInputs.cache
+C:\Users\vilislav.kalenski\Documents\GitHub\Example\02_CSharp_Fund - jan 2021\25_Exercise Associative Arrays\07. Student Academy\obj\Debug\netcoreapp3.1\07. Student Academy.dll
+C:\Users\vilislav.kalenski\Documents\GitHub\Example\02_CSharp_Fund - jan 2021\25_Exercise Associative Arrays\07. Student Academy\obj\Debug\netcoreapp3.1\07. Student Academy.pdb
+C:\Users\vilislav.kalenski\Documents\GitHub\Example\02_CSharp_Fund - jan 2021\25_Exercise Associative Arrays\07. Student Academy\obj\Debug\netcoreapp3.1\07. Student Academy.genruntimeconfig.cache

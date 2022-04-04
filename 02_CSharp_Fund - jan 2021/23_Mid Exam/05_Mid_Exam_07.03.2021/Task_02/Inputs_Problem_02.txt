@@ -1,5 +1,0 @@
-Clothes->43,20|Shoes->25,25|Clothes->36,52|Clothes->20,90|Accessories->15,60
-120
-
-Shoes->41,20|Clothes->20,30|Accessirres->40|Shoes->15,60|Shoes->33,30|Clothes->48,60
-90

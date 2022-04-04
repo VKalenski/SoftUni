@@ -1,0 +1,14 @@
+C:\Users\vilislav.kalenski\Documents\GitHub\Example\02_CSharp_Fund - jan 2021\20_Object And Classes\02. Big_Factorial\bin\Debug\netcoreapp3.1\02. Big_Factorial.exe
+C:\Users\vilislav.kalenski\Documents\GitHub\Example\02_CSharp_Fund - jan 2021\20_Object And Classes\02. Big_Factorial\bin\Debug\netcoreapp3.1\02. Big_Factorial.deps.json
+C:\Users\vilislav.kalenski\Documents\GitHub\Example\02_CSharp_Fund - jan 2021\20_Object And Classes\02. Big_Factorial\bin\Debug\netcoreapp3.1\02. Big_Factorial.runtimeconfig.json
+C:\Users\vilislav.kalenski\Documents\GitHub\Example\02_CSharp_Fund - jan 2021\20_Object And Classes\02. Big_Factorial\bin\Debug\netcoreapp3.1\02. Big_Factorial.runtimeconfig.dev.json
+C:\Users\vilislav.kalenski\Documents\GitHub\Example\02_CSharp_Fund - jan 2021\20_Object And Classes\02. Big_Factorial\bin\Debug\netcoreapp3.1\02. Big_Factorial.dll
+C:\Users\vilislav.kalenski\Documents\GitHub\Example\02_CSharp_Fund - jan 2021\20_Object And Classes\02. Big_Factorial\bin\Debug\netcoreapp3.1\02. Big_Factorial.pdb
+C:\Users\vilislav.kalenski\Documents\GitHub\Example\02_CSharp_Fund - jan 2021\20_Object And Classes\02. Big_Factorial\obj\Debug\netcoreapp3.1\02. Big_Factorial.csproj.AssemblyReference.cache
+C:\Users\vilislav.kalenski\Documents\GitHub\Example\02_CSharp_Fund - jan 2021\20_Object And Classes\02. Big_Factorial\obj\Debug\netcoreapp3.1\02. Big_Factorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vilislav.kalenski\Documents\GitHub\Example\02_CSharp_Fund - jan 2021\20_Object And Classes\02. Big_Factorial\obj\Debug\netcoreapp3.1\02. Big_Factorial.AssemblyInfoInputs.cache
+C:\Users\vilislav.kalenski\Documents\GitHub\Example\02_CSharp_Fund - jan 2021\20_Object And Classes\02. Big_Factorial\obj\Debug\netcoreapp3.1\02. Big_Factorial.AssemblyInfo.cs
+C:\Users\vilislav.kalenski\Documents\GitHub\Example\02_CSharp_Fund - jan 2021\20_Object And Classes\02. Big_Factorial\obj\Debug\netcoreapp3.1\02. Big_Factorial.csproj.CoreCompileInputs.cache
+C:\Users\vilislav.kalenski\Documents\GitHub\Example\02_CSharp_Fund - jan 2021\20_Object And Classes\02. Big_Factorial\obj\Debug\netcoreapp3.1\02. Big_Factorial.dll
+C:\Users\vilislav.kalenski\Documents\GitHub\Example\02_CSharp_Fund - jan 2021\20_Object And Classes\02. Big_Factorial\obj\Debug\netcoreapp3.1\02. Big_Factorial.pdb
+C:\Users\vilislav.kalenski\Documents\GitHub\Example\02_CSharp_Fund - jan 2021\20_Object And Classes\02. Big_Factorial\obj\Debug\netcoreapp3.1\02. Big_Factorial.genruntimeconfig.cache

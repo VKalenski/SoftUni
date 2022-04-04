@@ -1,0 +1,14 @@
+C:\Users\vilislav.kalenski\Documents\GitHub\Example\02_CSharp_Fund - jan 2021\21_Exercise Object And Classes\07. Order_By_Age\bin\Debug\netcoreapp3.1\07. Order_By_Age.exe
+C:\Users\vilislav.kalenski\Documents\GitHub\Example\02_CSharp_Fund - jan 2021\21_Exercise Object And Classes\07. Order_By_Age\bin\Debug\netcoreapp3.1\07. Order_By_Age.deps.json
+C:\Users\vilislav.kalenski\Documents\GitHub\Example\02_CSharp_Fund - jan 2021\21_Exercise Object And Classes\07. Order_By_Age\bin\Debug\netcoreapp3.1\07. Order_By_Age.runtimeconfig.json
+C:\Users\vilislav.kalenski\Documents\GitHub\Example\02_CSharp_Fund - jan 2021\21_Exercise Object And Classes\07. Order_By_Age\bin\Debug\netcoreapp3.1\07. Order_By_Age.runtimeconfig.dev.json
+C:\Users\vilislav.kalenski\Documents\GitHub\Example\02_CSharp_Fund - jan 2021\21_Exercise Object And Classes\07. Order_By_Age\bin\Debug\netcoreapp3.1\07. Order_By_Age.dll
+C:\Users\vilislav.kalenski\Documents\GitHub\Example\02_CSharp_Fund - jan 2021\21_Exercise Object And Classes\07. Order_By_Age\bin\Debug\netcoreapp3.1\07. Order_By_Age.pdb
+C:\Users\vilislav.kalenski\Documents\GitHub\Example\02_CSharp_Fund - jan 2021\21_Exercise Object And Classes\07. Order_By_Age\obj\Debug\netcoreapp3.1\07. Order_By_Age.csproj.AssemblyReference.cache
+C:\Users\vilislav.kalenski\Documents\GitHub\Example\02_CSharp_Fund - jan 2021\21_Exercise Object And Classes\07. Order_By_Age\obj\Debug\netcoreapp3.1\07. Order_By_Age.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vilislav.kalenski\Documents\GitHub\Example\02_CSharp_Fund - jan 2021\21_Exercise Object And Classes\07. Order_By_Age\obj\Debug\netcoreapp3.1\07. Order_By_Age.AssemblyInfoInputs.cache
+C:\Users\vilislav.kalenski\Documents\GitHub\Example\02_CSharp_Fund - jan 2021\21_Exercise Object And Classes\07. Order_By_Age\obj\Debug\netcoreapp3.1\07. Order_By_Age.AssemblyInfo.cs
+C:\Users\vilislav.kalenski\Documents\GitHub\Example\02_CSharp_Fund - jan 2021\21_Exercise Object And Classes\07. Order_By_Age\obj\Debug\netcoreapp3.1\07. Order_By_Age.csproj.CoreCompileInputs.cache
+C:\Users\vilislav.kalenski\Documents\GitHub\Example\02_CSharp_Fund - jan 2021\21_Exercise Object And Classes\07. Order_By_Age\obj\Debug\netcoreapp3.1\07. Order_By_Age.dll
+C:\Users\vilislav.kalenski\Documents\GitHub\Example\02_CSharp_Fund - jan 2021\21_Exercise Object And Classes\07. Order_By_Age\obj\Debug\netcoreapp3.1\07. Order_By_Age.pdb
+C:\Users\vilislav.kalenski\Documents\GitHub\Example\02_CSharp_Fund - jan 2021\21_Exercise Object And Classes\07. Order_By_Age\obj\Debug\netcoreapp3.1\07. Order_By_Age.genruntimeconfig.cache

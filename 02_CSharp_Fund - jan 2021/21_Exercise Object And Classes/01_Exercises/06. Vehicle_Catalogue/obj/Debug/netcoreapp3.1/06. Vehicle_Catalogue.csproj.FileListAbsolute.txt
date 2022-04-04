@@ -1,0 +1,14 @@
+C:\Users\vilislav.kalenski\Documents\GitHub\Example\02_CSharp_Fund - jan 2021\21_Exercise Object And Classes\06. Vehicle_Catalogue\bin\Debug\netcoreapp3.1\06. Vehicle_Catalogue.exe
+C:\Users\vilislav.kalenski\Documents\GitHub\Example\02_CSharp_Fund - jan 2021\21_Exercise Object And Classes\06. Vehicle_Catalogue\bin\Debug\netcoreapp3.1\06. Vehicle_Catalogue.deps.json
+C:\Users\vilislav.kalenski\Documents\GitHub\Example\02_CSharp_Fund - jan 2021\21_Exercise Object And Classes\06. Vehicle_Catalogue\bin\Debug\netcoreapp3.1\06. Vehicle_Catalogue.runtimeconfig.json
+C:\Users\vilislav.kalenski\Documents\GitHub\Example\02_CSharp_Fund - jan 2021\21_Exercise Object And Classes\06. Vehicle_Catalogue\bin\Debug\netcoreapp3.1\06. Vehicle_Catalogue.runtimeconfig.dev.json
+C:\Users\vilislav.kalenski\Documents\GitHub\Example\02_CSharp_Fund - jan 2021\21_Exercise Object And Classes\06. Vehicle_Catalogue\bin\Debug\netcoreapp3.1\06. Vehicle_Catalogue.dll
+C:\Users\vilislav.kalenski\Documents\GitHub\Example\02_CSharp_Fund - jan 2021\21_Exercise Object And Classes\06. Vehicle_Catalogue\bin\Debug\netcoreapp3.1\06. Vehicle_Catalogue.pdb
+C:\Users\vilislav.kalenski\Documents\GitHub\Example\02_CSharp_Fund - jan 2021\21_Exercise Object And Classes\06. Vehicle_Catalogue\obj\Debug\netcoreapp3.1\06. Vehicle_Catalogue.csproj.AssemblyReference.cache
+C:\Users\vilislav.kalenski\Documents\GitHub\Example\02_CSharp_Fund - jan 2021\21_Exercise Object And Classes\06. Vehicle_Catalogue\obj\Debug\netcoreapp3.1\06. Vehicle_Catalogue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vilislav.kalenski\Documents\GitHub\Example\02_CSharp_Fund - jan 2021\21_Exercise Object And Classes\06. Vehicle_Catalogue\obj\Debug\netcoreapp3.1\06. Vehicle_Catalogue.AssemblyInfoInputs.cache
+C:\Users\vilislav.kalenski\Documents\GitHub\Example\02_CSharp_Fund - jan 2021\21_Exercise Object And Classes\06. Vehicle_Catalogue\obj\Debug\netcoreapp3.1\06. Vehicle_Catalogue.AssemblyInfo.cs
+C:\Users\vilislav.kalenski\Documents\GitHub\Example\02_CSharp_Fund - jan 2021\21_Exercise Object And Classes\06. Vehicle_Catalogue\obj\Debug\netcoreapp3.1\06. Vehicle_Catalogue.csproj.CoreCompileInputs.cache
+C:\Users\vilislav.kalenski\Documents\GitHub\Example\02_CSharp_Fund - jan 2021\21_Exercise Object And Classes\06. Vehicle_Catalogue\obj\Debug\netcoreapp3.1\06. Vehicle_Catalogue.dll
+C:\Users\vilislav.kalenski\Documents\GitHub\Example\02_CSharp_Fund - jan 2021\21_Exercise Object And Classes\06. Vehicle_Catalogue\obj\Debug\netcoreapp3.1\06. Vehicle_Catalogue.pdb
+C:\Users\vilislav.kalenski\Documents\GitHub\Example\02_CSharp_Fund - jan 2021\21_Exercise Object And Classes\06. Vehicle_Catalogue\obj\Debug\netcoreapp3.1\06. Vehicle_Catalogue.genruntimeconfig.cache

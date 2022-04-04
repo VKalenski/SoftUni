@@ -1,0 +1,14 @@
+C:\Users\vilislav.kalenski\Documents\GitHub\Example\02_CSharp_Fund - jan 2021\20_Object And Classes\03. Songs\bin\Debug\netcoreapp3.1\03. Songs.exe
+C:\Users\vilislav.kalenski\Documents\GitHub\Example\02_CSharp_Fund - jan 2021\20_Object And Classes\03. Songs\bin\Debug\netcoreapp3.1\03. Songs.deps.json
+C:\Users\vilislav.kalenski\Documents\GitHub\Example\02_CSharp_Fund - jan 2021\20_Object And Classes\03. Songs\bin\Debug\netcoreapp3.1\03. Songs.runtimeconfig.json
+C:\Users\vilislav.kalenski\Documents\GitHub\Example\02_CSharp_Fund - jan 2021\20_Object And Classes\03. Songs\bin\Debug\netcoreapp3.1\03. Songs.runtimeconfig.dev.json
+C:\Users\vilislav.kalenski\Documents\GitHub\Example\02_CSharp_Fund - jan 2021\20_Object And Classes\03. Songs\bin\Debug\netcoreapp3.1\03. Songs.dll
+C:\Users\vilislav.kalenski\Documents\GitHub\Example\02_CSharp_Fund - jan 2021\20_Object And Classes\03. Songs\bin\Debug\netcoreapp3.1\03. Songs.pdb
+C:\Users\vilislav.kalenski\Documents\GitHub\Example\02_CSharp_Fund - jan 2021\20_Object And Classes\03. Songs\obj\Debug\netcoreapp3.1\03. Songs.csproj.AssemblyReference.cache
+C:\Users\vilislav.kalenski\Documents\GitHub\Example\02_CSharp_Fund - jan 2021\20_Object And Classes\03. Songs\obj\Debug\netcoreapp3.1\03. Songs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vilislav.kalenski\Documents\GitHub\Example\02_CSharp_Fund - jan 2021\20_Object And Classes\03. Songs\obj\Debug\netcoreapp3.1\03. Songs.AssemblyInfoInputs.cache
+C:\Users\vilislav.kalenski\Documents\GitHub\Example\02_CSharp_Fund - jan 2021\20_Object And Classes\03. Songs\obj\Debug\netcoreapp3.1\03. Songs.AssemblyInfo.cs
+C:\Users\vilislav.kalenski\Documents\GitHub\Example\02_CSharp_Fund - jan 2021\20_Object And Classes\03. Songs\obj\Debug\netcoreapp3.1\03. Songs.csproj.CoreCompileInputs.cache
+C:\Users\vilislav.kalenski\Documents\GitHub\Example\02_CSharp_Fund - jan 2021\20_Object And Classes\03. Songs\obj\Debug\netcoreapp3.1\03. Songs.dll
+C:\Users\vilislav.kalenski\Documents\GitHub\Example\02_CSharp_Fund - jan 2021\20_Object And Classes\03. Songs\obj\Debug\netcoreapp3.1\03. Songs.pdb
+C:\Users\vilislav.kalenski\Documents\GitHub\Example\02_CSharp_Fund - jan 2021\20_Object And Classes\03. Songs\obj\Debug\netcoreapp3.1\03. Songs.genruntimeconfig.cache

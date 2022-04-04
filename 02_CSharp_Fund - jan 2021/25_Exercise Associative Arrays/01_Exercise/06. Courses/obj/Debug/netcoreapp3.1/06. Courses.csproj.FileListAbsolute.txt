@@ -1,0 +1,14 @@
+C:\Users\vilislav.kalenski\Documents\GitHub\Example\02_CSharp_Fund - jan 2021\25_Exercise Associative Arrays\06. Courses\bin\Debug\netcoreapp3.1\06. Courses.exe
+C:\Users\vilislav.kalenski\Documents\GitHub\Example\02_CSharp_Fund - jan 2021\25_Exercise Associative Arrays\06. Courses\bin\Debug\netcoreapp3.1\06. Courses.deps.json
+C:\Users\vilislav.kalenski\Documents\GitHub\Example\02_CSharp_Fund - jan 2021\25_Exercise Associative Arrays\06. Courses\bin\Debug\netcoreapp3.1\06. Courses.runtimeconfig.json
+C:\Users\vilislav.kalenski\Documents\GitHub\Example\02_CSharp_Fund - jan 2021\25_Exercise Associative Arrays\06. Courses\bin\Debug\netcoreapp3.1\06. Courses.runtimeconfig.dev.json
+C:\Users\vilislav.kalenski\Documents\GitHub\Example\02_CSharp_Fund - jan 2021\25_Exercise Associative Arrays\06. Courses\bin\Debug\netcoreapp3.1\06. Courses.dll
+C:\Users\vilislav.kalenski\Documents\GitHub\Example\02_CSharp_Fund - jan 2021\25_Exercise Associative Arrays\06. Courses\bin\Debug\netcoreapp3.1\06. Courses.pdb
+C:\Users\vilislav.kalenski\Documents\GitHub\Example\02_CSharp_Fund - jan 2021\25_Exercise Associative Arrays\06. Courses\obj\Debug\netcoreapp3.1\06. Courses.csproj.AssemblyReference.cache
+C:\Users\vilislav.kalenski\Documents\GitHub\Example\02_CSharp_Fund - jan 2021\25_Exercise Associative Arrays\06. Courses\obj\Debug\netcoreapp3.1\06. Courses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vilislav.kalenski\Documents\GitHub\Example\02_CSharp_Fund - jan 2021\25_Exercise Associative Arrays\06. Courses\obj\Debug\netcoreapp3.1\06. Courses.AssemblyInfoInputs.cache
+C:\Users\vilislav.kalenski\Documents\GitHub\Example\02_CSharp_Fund - jan 2021\25_Exercise Associative Arrays\06. Courses\obj\Debug\netcoreapp3.1\06. Courses.AssemblyInfo.cs
+C:\Users\vilislav.kalenski\Documents\GitHub\Example\02_CSharp_Fund - jan 2021\25_Exercise Associative Arrays\06. Courses\obj\Debug\netcoreapp3.1\06. Courses.csproj.CoreCompileInputs.cache
+C:\Users\vilislav.kalenski\Documents\GitHub\Example\02_CSharp_Fund - jan 2021\25_Exercise Associative Arrays\06. Courses\obj\Debug\netcoreapp3.1\06. Courses.dll
+C:\Users\vilislav.kalenski\Documents\GitHub\Example\02_CSharp_Fund - jan 2021\25_Exercise Associative Arrays\06. Courses\obj\Debug\netcoreapp3.1\06. Courses.pdb
+C:\Users\vilislav.kalenski\Documents\GitHub\Example\02_CSharp_Fund - jan 2021\25_Exercise Associative Arrays\06. Courses\obj\Debug\netcoreapp3.1\06. Courses.genruntimeconfig.cache

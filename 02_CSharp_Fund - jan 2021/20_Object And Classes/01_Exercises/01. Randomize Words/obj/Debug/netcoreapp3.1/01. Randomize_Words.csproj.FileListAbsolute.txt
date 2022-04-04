@@ -1,0 +1,14 @@
+C:\Users\vilislav.kalenski\Documents\GitHub\Example\02_CSharp_Fund - jan 2021\20_Object And Classes\01. Randomize_Words\bin\Debug\netcoreapp3.1\01. Randomize_Words.exe
+C:\Users\vilislav.kalenski\Documents\GitHub\Example\02_CSharp_Fund - jan 2021\20_Object And Classes\01. Randomize_Words\bin\Debug\netcoreapp3.1\01. Randomize_Words.deps.json
+C:\Users\vilislav.kalenski\Documents\GitHub\Example\02_CSharp_Fund - jan 2021\20_Object And Classes\01. Randomize_Words\bin\Debug\netcoreapp3.1\01. Randomize_Words.runtimeconfig.json
+C:\Users\vilislav.kalenski\Documents\GitHub\Example\02_CSharp_Fund - jan 2021\20_Object And Classes\01. Randomize_Words\bin\Debug\netcoreapp3.1\01. Randomize_Words.runtimeconfig.dev.json
+C:\Users\vilislav.kalenski\Documents\GitHub\Example\02_CSharp_Fund - jan 2021\20_Object And Classes\01. Randomize_Words\bin\Debug\netcoreapp3.1\01. Randomize_Words.dll
+C:\Users\vilislav.kalenski\Documents\GitHub\Example\02_CSharp_Fund - jan 2021\20_Object And Classes\01. Randomize_Words\bin\Debug\netcoreapp3.1\01. Randomize_Words.pdb
+C:\Users\vilislav.kalenski\Documents\GitHub\Example\02_CSharp_Fund - jan 2021\20_Object And Classes\01. Randomize_Words\obj\Debug\netcoreapp3.1\01. Randomize_Words.csproj.AssemblyReference.cache
+C:\Users\vilislav.kalenski\Documents\GitHub\Example\02_CSharp_Fund - jan 2021\20_Object And Classes\01. Randomize_Words\obj\Debug\netcoreapp3.1\01. Randomize_Words.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vilislav.kalenski\Documents\GitHub\Example\02_CSharp_Fund - jan 2021\20_Object And Classes\01. Randomize_Words\obj\Debug\netcoreapp3.1\01. Randomize_Words.AssemblyInfoInputs.cache
+C:\Users\vilislav.kalenski\Documents\GitHub\Example\02_CSharp_Fund - jan 2021\20_Object And Classes\01. Randomize_Words\obj\Debug\netcoreapp3.1\01. Randomize_Words.AssemblyInfo.cs
+C:\Users\vilislav.kalenski\Documents\GitHub\Example\02_CSharp_Fund - jan 2021\20_Object And Classes\01. Randomize_Words\obj\Debug\netcoreapp3.1\01. Randomize_Words.csproj.CoreCompileInputs.cache
+C:\Users\vilislav.kalenski\Documents\GitHub\Example\02_CSharp_Fund - jan 2021\20_Object And Classes\01. Randomize_Words\obj\Debug\netcoreapp3.1\01. Randomize_Words.dll
+C:\Users\vilislav.kalenski\Documents\GitHub\Example\02_CSharp_Fund - jan 2021\20_Object And Classes\01. Randomize_Words\obj\Debug\netcoreapp3.1\01. Randomize_Words.pdb
+C:\Users\vilislav.kalenski\Documents\GitHub\Example\02_CSharp_Fund - jan 2021\20_Object And Classes\01. Randomize_Words\obj\Debug\netcoreapp3.1\01. Randomize_Words.genruntimeconfig.cache
