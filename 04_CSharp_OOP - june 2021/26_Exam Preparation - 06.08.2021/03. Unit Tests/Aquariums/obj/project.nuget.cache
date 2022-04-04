@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "ok87Xp1mt6WPKC9i7R4MqW7fSuFWftG4iS4athL0NT2F2oXvpJwJtXB8S0Fs22l0CDiK9oKuf+uXVIc5uVcycg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lenovo\\source\\repos\\03. Unit Tests\\Aquariums\\Aquariums.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lenovo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\lenovo\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\lenovo\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\lenovo\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

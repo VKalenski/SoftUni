@@ -1,0 +1,13 @@
+C:\Users\lenovo\source\repos\10-04--2021\AquaShop\bin\Debug\netcoreapp3.0\AquaShop.exe
+C:\Users\lenovo\source\repos\10-04--2021\AquaShop\bin\Debug\netcoreapp3.0\AquaShop.deps.json
+C:\Users\lenovo\source\repos\10-04--2021\AquaShop\bin\Debug\netcoreapp3.0\AquaShop.runtimeconfig.json
+C:\Users\lenovo\source\repos\10-04--2021\AquaShop\bin\Debug\netcoreapp3.0\AquaShop.runtimeconfig.dev.json
+C:\Users\lenovo\source\repos\10-04--2021\AquaShop\bin\Debug\netcoreapp3.0\AquaShop.dll
+C:\Users\lenovo\source\repos\10-04--2021\AquaShop\bin\Debug\netcoreapp3.0\AquaShop.pdb
+C:\Users\lenovo\source\repos\10-04--2021\AquaShop\obj\Debug\netcoreapp3.0\AquaShop.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\10-04--2021\AquaShop\obj\Debug\netcoreapp3.0\AquaShop.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\10-04--2021\AquaShop\obj\Debug\netcoreapp3.0\AquaShop.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\10-04--2021\AquaShop\obj\Debug\netcoreapp3.0\AquaShop.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\10-04--2021\AquaShop\obj\Debug\netcoreapp3.0\AquaShop.dll
+C:\Users\lenovo\source\repos\10-04--2021\AquaShop\obj\Debug\netcoreapp3.0\AquaShop.pdb
+C:\Users\lenovo\source\repos\10-04--2021\AquaShop\obj\Debug\netcoreapp3.0\AquaShop.genruntimeconfig.cache

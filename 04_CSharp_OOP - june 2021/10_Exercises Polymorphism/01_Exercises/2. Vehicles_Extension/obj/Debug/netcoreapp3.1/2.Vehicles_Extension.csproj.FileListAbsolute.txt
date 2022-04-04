@@ -1,0 +1,13 @@
+C:\Users\lenovo\source\repos\Exercises_Polymorphism\2.Vehicles_Extension\bin\Debug\netcoreapp3.1\2.Vehicles_Extension.exe
+C:\Users\lenovo\source\repos\Exercises_Polymorphism\2.Vehicles_Extension\bin\Debug\netcoreapp3.1\2.Vehicles_Extension.deps.json
+C:\Users\lenovo\source\repos\Exercises_Polymorphism\2.Vehicles_Extension\bin\Debug\netcoreapp3.1\2.Vehicles_Extension.runtimeconfig.json
+C:\Users\lenovo\source\repos\Exercises_Polymorphism\2.Vehicles_Extension\bin\Debug\netcoreapp3.1\2.Vehicles_Extension.runtimeconfig.dev.json
+C:\Users\lenovo\source\repos\Exercises_Polymorphism\2.Vehicles_Extension\bin\Debug\netcoreapp3.1\2.Vehicles_Extension.dll
+C:\Users\lenovo\source\repos\Exercises_Polymorphism\2.Vehicles_Extension\bin\Debug\netcoreapp3.1\2.Vehicles_Extension.pdb
+C:\Users\lenovo\source\repos\Exercises_Polymorphism\2.Vehicles_Extension\obj\Debug\netcoreapp3.1\2.Vehicles_Extension.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\Exercises_Polymorphism\2.Vehicles_Extension\obj\Debug\netcoreapp3.1\2.Vehicles_Extension.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\Exercises_Polymorphism\2.Vehicles_Extension\obj\Debug\netcoreapp3.1\2.Vehicles_Extension.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\Exercises_Polymorphism\2.Vehicles_Extension\obj\Debug\netcoreapp3.1\2.Vehicles_Extension.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Exercises_Polymorphism\2.Vehicles_Extension\obj\Debug\netcoreapp3.1\2.Vehicles_Extension.dll
+C:\Users\lenovo\source\repos\Exercises_Polymorphism\2.Vehicles_Extension\obj\Debug\netcoreapp3.1\2.Vehicles_Extension.pdb
+C:\Users\lenovo\source\repos\Exercises_Polymorphism\2.Vehicles_Extension\obj\Debug\netcoreapp3.1\2.Vehicles_Extension.genruntimeconfig.cache

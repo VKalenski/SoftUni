@@ -1,0 +1,13 @@
+C:\Users\lenovo\source\repos\Exercises_Polymorphism\3.Raiding\bin\Debug\netcoreapp3.1\3.Raiding.exe
+C:\Users\lenovo\source\repos\Exercises_Polymorphism\3.Raiding\bin\Debug\netcoreapp3.1\3.Raiding.deps.json
+C:\Users\lenovo\source\repos\Exercises_Polymorphism\3.Raiding\bin\Debug\netcoreapp3.1\3.Raiding.runtimeconfig.json
+C:\Users\lenovo\source\repos\Exercises_Polymorphism\3.Raiding\bin\Debug\netcoreapp3.1\3.Raiding.runtimeconfig.dev.json
+C:\Users\lenovo\source\repos\Exercises_Polymorphism\3.Raiding\bin\Debug\netcoreapp3.1\3.Raiding.dll
+C:\Users\lenovo\source\repos\Exercises_Polymorphism\3.Raiding\bin\Debug\netcoreapp3.1\3.Raiding.pdb
+C:\Users\lenovo\source\repos\Exercises_Polymorphism\3.Raiding\obj\Debug\netcoreapp3.1\3.Raiding.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\Exercises_Polymorphism\3.Raiding\obj\Debug\netcoreapp3.1\3.Raiding.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\Exercises_Polymorphism\3.Raiding\obj\Debug\netcoreapp3.1\3.Raiding.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\Exercises_Polymorphism\3.Raiding\obj\Debug\netcoreapp3.1\3.Raiding.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Exercises_Polymorphism\3.Raiding\obj\Debug\netcoreapp3.1\3.Raiding.dll
+C:\Users\lenovo\source\repos\Exercises_Polymorphism\3.Raiding\obj\Debug\netcoreapp3.1\3.Raiding.pdb
+C:\Users\lenovo\source\repos\Exercises_Polymorphism\3.Raiding\obj\Debug\netcoreapp3.1\3.Raiding.genruntimeconfig.cache
